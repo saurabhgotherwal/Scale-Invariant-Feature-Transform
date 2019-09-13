@@ -1,10 +1,12 @@
 # Scale-Invariant-Feature-Transform
 
-Objective:
+### Objective:
+
 The objective of this task is to detect key points in an image which are the first three steps of
 Scale-Invariant Feature Transform (SIFT).
 
-Approach:
+### Approach:
+
 1. Generate 4 octaves of the images:
 
       a. We take the original image, and generate progressively blurred out images.
